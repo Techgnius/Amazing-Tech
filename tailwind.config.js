@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "hero-bg": "url('/cybersecurity-hero.jpg')",
+      },
       fontFamily: {
         sans: [
           "sans-serif-font",
